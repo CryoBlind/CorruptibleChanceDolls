@@ -1,0 +1,50 @@
+ManifestFileVersion: 0
+CRC: 2429825699
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 288324f509288059b240ae4639334ed7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: a7a21288fe2bd6ae3724c7054e7a1302
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/CorruptableChanceDolls/Assets/texCorruptedChanceDollIco.png
+- Assets/CorruptableChanceDolls/Assets/Material/Straw Doll With Nails_standardSurface1_Roughness.png
+- Assets/CorruptableChanceDolls/Assets/PickupCorruptedChanceDoll.prefab
+- Assets/CorruptableChanceDolls/Assets/SM_CorruptedChanceDoll.fbx
+- Assets/BundledAssets/Material/mat_corruptedChanceDoll.mat
+- Assets/BundledAssets/Material/Straw Doll With Nails_standardSurface1_Normal.png
+- Assets/CorruptableChanceDolls/Assets/Material/Straw Doll With Nails_standardSurface1_Normal.png
+- Assets/CorruptableChanceDolls/Assets/Material/Straw Doll With Nails_standardSurface1_Metallic.png
+- Assets/BundledAssets/Material/Straw Doll With Nails_standardSurface1_Height.png
+- Assets/CorruptableChanceDolls/Assets/Material/mat_corruptedChanceDoll.mat
+- Assets/BundledAssets/Material/Straw Doll With Nails_standardSurface1_BaseColor.png
+- Assets/BundledAssets/PickupCorruptedChanceDoll.prefab
+- Assets/BundledAssets/Material/Straw Doll With Nails_standardSurface1_Roughness.png
+- Assets/CorruptableChanceDolls/Assets/Material/Straw Doll With Nails_standardSurface1_BaseColor.png
+- Assets/BundledAssets/SM_CorruptedChanceDoll.fbx
+- Assets/BundledAssets/texCorruptedChanceDollIco.png
+- Assets/BundledAssets/Material/Straw Doll With Nails_standardSurface1_Metallic.png
+- Assets/CorruptableChanceDolls/Assets/Material/Straw Doll With Nails_standardSurface1_Height.png
+Dependencies: []

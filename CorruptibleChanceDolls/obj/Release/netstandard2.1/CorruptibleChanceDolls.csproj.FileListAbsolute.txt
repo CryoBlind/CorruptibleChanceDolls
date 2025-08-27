@@ -1,0 +1,15 @@
+C:\Users\cwdea\Game Projects\RiskOfRain2Mods\CorruptibleChanceDolls\bin\Release\netstandard2.1\corruptiblechancedollassets
+C:\Users\cwdea\Game Projects\RiskOfRain2Mods\CorruptibleChanceDolls\bin\Release\netstandard2.1\corruptiblechancedollassets.manifest
+C:\Users\cwdea\Game Projects\RiskOfRain2Mods\CorruptibleChanceDolls\bin\Release\netstandard2.1\icon.png
+C:\Users\cwdea\Game Projects\RiskOfRain2Mods\CorruptibleChanceDolls\bin\Release\netstandard2.1\manifest.json
+C:\Users\cwdea\Game Projects\RiskOfRain2Mods\CorruptibleChanceDolls\bin\Release\netstandard2.1\README.md
+C:\Users\cwdea\Game Projects\RiskOfRain2Mods\CorruptibleChanceDolls\bin\Release\netstandard2.1\CorruptibleChanceDolls.deps.json
+C:\Users\cwdea\Game Projects\RiskOfRain2Mods\CorruptibleChanceDolls\bin\Release\netstandard2.1\CorruptibleChanceDolls.dll
+C:\Users\cwdea\Game Projects\RiskOfRain2Mods\CorruptibleChanceDolls\bin\Release\netstandard2.1\CorruptibleChanceDolls.pdb
+C:\Users\cwdea\Game Projects\RiskOfRain2Mods\CorruptibleChanceDolls\obj\Release\netstandard2.1\CorruptibleChanceDolls.csproj.AssemblyReference.cache
+C:\Users\cwdea\Game Projects\RiskOfRain2Mods\CorruptibleChanceDolls\obj\Release\netstandard2.1\CorruptibleChanceDolls.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cwdea\Game Projects\RiskOfRain2Mods\CorruptibleChanceDolls\obj\Release\netstandard2.1\CorruptibleChanceDolls.AssemblyInfoInputs.cache
+C:\Users\cwdea\Game Projects\RiskOfRain2Mods\CorruptibleChanceDolls\obj\Release\netstandard2.1\CorruptibleChanceDolls.AssemblyInfo.cs
+C:\Users\cwdea\Game Projects\RiskOfRain2Mods\CorruptibleChanceDolls\obj\Release\netstandard2.1\CorruptibleChanceDolls.csproj.CoreCompileInputs.cache
+C:\Users\cwdea\Game Projects\RiskOfRain2Mods\CorruptibleChanceDolls\obj\Release\netstandard2.1\CorruptibleChanceDolls.dll
+C:\Users\cwdea\Game Projects\RiskOfRain2Mods\CorruptibleChanceDolls\obj\Release\netstandard2.1\CorruptibleChanceDolls.pdb
